@@ -1,1 +1,1 @@
-# Maze game
+# Maze games
